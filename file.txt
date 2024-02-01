@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 update count=5
+=======
+update count=2
+>>>>>>> dev
 
