@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-update count=5
-=======
-update count=2
->>>>>>> dev
+update count=6
 
